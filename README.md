@@ -1,6 +1,6 @@
 # Customer-Segmentation-with-RFM
 ## FLO Customer Segmentation
-
+![Screenshot](1.png)
 ### Business Problem
 
 ##### FLO wants to segment its customers and determine marketing strategies according to these segments.

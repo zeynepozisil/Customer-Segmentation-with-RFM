@@ -1,5 +1,6 @@
 # Customer-Segmentation-with-RFM
 ## FLO Customer Segmentation
+- **Medium:** https://medium.com/@zeynepozisil
 ![Screenshot](1.png)
 ### Business Problem
 
